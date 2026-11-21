@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:"/vector_test/_next/static/chunks/1xj8f5-lk7pzh.js"
+3:"/vector_test/_next/static/chunks/1j_fhbqqzcm6x.js"
+4:I[17356,["$2","$3"],"default"]
+5:I[39756,["$2","$3"],"default"]
+6:"/vector_test/_next/static/chunks/3p9ypxr7_-frn.js"
+7:I[36994,["$2","$3","$6"],"default"]
+8:I[37457,["$2","$3"],"default"]
+9:"/vector_test/_next/static/chunks/3l-y585g8xtkm.js"
+a:I[74164,["$2","$3","$9"],"default"]
+c:"$Sreact.suspense"
+d:"/vector_test/_next/static/chunks/0cymye_dapnre.js"
+e:"/vector_test/_next/static/chunks/1qqbmsp66exn8.js"
+f:I[16789,["$2","$3","$d","$e"],"default"]
+15:I[97367,["$2","$3"],"OutletBoundary"]
+17:"ViewportBoundary"
+18:I[97367,["$2","$3"],"$17"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2","$3"],"$1a"]
+1d:"/vector_test/_next/static/chunks/1--h3ilo-7bni.js"
+1e:I[34045,["$2","$3","$1d"],"default"]
+:HL["/vector_test/_next/static/chunks/0q1d28g-u_rb5.css","style"]
+:HL["/vector_test/_next/static/chunks/0zpchumeakp3s.css","style"]
+:HL["/vector_test/_next/static/media/1162af63fcaf8ea1-s.p.42z9vm7u0i9n-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/30eab6cd90b9f6c4-s.p.22z5avtxradui.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/3fa4db8b844e05e3-s.p.0g4pmka8j2u20.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/73c8302d2fdfe340-s.p.30xqm3yldpj47.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/77a3cbba9bdc124c-s.p.26axk51fv0nvx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/9f5be66613d9c872-s.p.27korwsf9c79u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/a036da9e181f7bda-s.p.17c61zbdzi3u-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/e873d1be9bc8de24-s.p.06apcr9x5ml-j.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+11:X
+13:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+12:[["children",{"s":{"n":"doc","t":"d","k":"requisites","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$11"},"c":"$Q13"}]]
+10:[["children",{"s":"legal","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$11"},"c":"$Q12"}]]
+b:[["children",{"s":"(docs)","h":512,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/vector_test/_next/static/chunks/0cymye_dapnre.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/vector_test/_next/static/chunks/1qqbmsp66exn8.js","async":true,"nonce":"$undefined"}]],["$","$c",null,{"fallback":["$","div",null,{"className":"guard-screen","children":["$","div",null,{"className":"guard-card","style":{"maxWidth":380,"width":"100%"},"children":[["$","div",null,{"className":"skeleton-line","style":{"height":24,"width":"55%","margin":"0 auto 20px"}}],["$","div",null,{"className":"skeleton-line"}],["$","div",null,{"className":"skeleton-line","style":{"width":"85%"}}],["$","div",null,{"className":"skeleton-line","style":{"width":"40%"}}]]}]}],"children":["$","$Lf",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$La",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q10"}]]
+0:{"P":null,"c":["","legal","requisites",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vector_test/_next/static/chunks/0q1d28g-u_rb5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/vector_test/_next/static/chunks/0zpchumeakp3s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/vector_test/_next/static/chunks/1xj8f5-lk7pzh.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/vector_test/_next/static/chunks/1j_fhbqqzcm6x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"TGdcHW_variable oJ8KcG_variable","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/vector_test/_next/static/chunks/3p9ypxr7_-frn.js","async":true,"nonce":"$undefined"}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$La",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1e",[["$","link","0",{"rel":"stylesheet","href":"/vector_test/_next/static/chunks/0q1d28g-u_rb5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/vector_test/_next/static/chunks/0zpchumeakp3s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sYJ9KLYFbmv302exHPieN"}
+1f:I[41018,["$2","$3","$d","$e"],"default"]
+11:C
+14:["$","article",null,{"className":"doc-body","children":[["$","div",null,{"className":"doc-body__head","children":[["$","span",null,{"className":"eyebrow","children":[["$","$L1f",null,{"name":"info","size":14}]," Правовой документ"]}],["$","h1",null,{"children":"Реквизиты исполнителя"}],["$","p",null,{"className":"lead","children":"Юридическая информация об онлайн-школе «Вектор»."}],["$","span",null,{"className":"doc-body__updated","children":[["$","$L1f",null,{"name":"clock","size":13}]," Редакция от ","01 авг. 2026 г."]}]]}],["$","nav",null,{"className":"doc-toc","aria-label":"Содержание документа","children":[["$","div",null,{"className":"doc-toc__title","children":"Содержание"}],[["$","a","0",{"href":"#s-0","children":"Исполнитель"}],["$","a","1",{"href":"#s-1","children":"Лицензия"}]]]}],[["$","section","0",{"id":"s-0","className":"doc-section","children":[["$","h2",null,{"children":"Исполнитель"}],[["$","p","0",{"children":"ИП Волков Дмитрий Александрович"}],["$","p","1",{"children":"ОГРНИП: 000000000000000 · ИНН: 000000000000"}],["$","p","2",{"children":"Адрес: 620000, г. Екатеринбург, ул. Ленина, 1"}],["$","p","3",{"children":"Email: hello@vektor.school · Телефон: +7 900 000-00-00"}],["$","p","4",{"children":"Режим работы: ежедневно 9:00–21:00 (ЕКБ)"}]]]}],["$","section","1",{"id":"s-1","className":"doc-section","children":[["$","h2",null,{"children":"Лицензия"}],[["$","p","0",{"children":"Образовательная деятельность осуществляется на основании лицензии № 00000 от 01.01.2024, выданной Министерством образования Свердловской области."}]]]}]],["$","div",null,{"className":"divider"}],["$","p",null,{"className":"muted","style":{"fontSize":13},"children":["Остались вопросы? Напишите на ",["$","a",null,{"className":"link-btn","href":"mailto:hello@vektor.school","children":"hello@vektor.school"}],". Остальные документы — в меню слева."]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+20:I[27201,["$2","$3"],"IconMark"]
+16:null
+1c:[["$","title","0",{"children":"Реквизиты исполнителя · Вектор"}],["$","meta","1",{"name":"description","content":"Юридическая информация об онлайн-школе «Вектор»."}],["$","link","2",{"rel":"icon","href":"/vector_test/icon.svg?icon.24gpqax_sssw0.svg","sizes":"any","type":"image/svg+xml"}],["$","$L20","3",{}]]

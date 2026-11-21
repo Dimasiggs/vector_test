@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:"/vector_test/_next/static/chunks/1xj8f5-lk7pzh.js"
+3:"/vector_test/_next/static/chunks/1j_fhbqqzcm6x.js"
+4:I[17356,["$2","$3"],"default"]
+5:I[39756,["$2","$3"],"default"]
+6:"/vector_test/_next/static/chunks/3p9ypxr7_-frn.js"
+7:I[36994,["$2","$3","$6"],"default"]
+8:I[37457,["$2","$3"],"default"]
+9:"/vector_test/_next/static/chunks/3l-y585g8xtkm.js"
+a:I[74164,["$2","$3","$9"],"default"]
+e:"$Sreact.suspense"
+f:"/vector_test/_next/static/chunks/0cymye_dapnre.js"
+10:"/vector_test/_next/static/chunks/1qqbmsp66exn8.js"
+11:I[16789,["$2","$3","$f","$10"],"default"]
+19:I[41018,["$2","$3","$f","$10"],"default"]
+24:"ViewportBoundary"
+25:I[97367,["$2","$3"],"$24"]
+26:"MetadataBoundary"
+27:I[97367,["$2","$3"],"$26"]
+28:I[27201,["$2","$3"],"IconMark"]
+:HL["/vector_test/_next/static/chunks/0q1d28g-u_rb5.css","style"]
+:HL["/vector_test/_next/static/chunks/0zpchumeakp3s.css","style"]
+c:X
+15:X
+15:C
+18:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"doc-body","children":[["$","div",null,{"className":"doc-body__head","children":[["$","span",null,{"className":"eyebrow","children":[["$","$L19",null,{"name":"book","size":14}]," Правовой документ"]}],["$","h1",null,{"children":"Публичная оферта"}],["$","p",null,{"className":"lead","children":"Договор возмездного оказания образовательных услуг между онлайн-школой «Вектор» и обучающимся (или его законным представителем)."}],["$","span",null,{"className":"doc-body__updated","children":[["$","$L19",null,{"name":"clock","size":13}]," Редакция от ","01 окт. 2026 г."]}]]}],["$","nav",null,{"className":"doc-toc","aria-label":"Содержание документа","children":[["$","div",null,{"className":"doc-toc__title","children":"Содержание"}],[["$","a","0",{"href":"#s-0","children":"1. Общие положения"}],["$","a","1",{"href":"#s-1","children":"2. Предмет договора"}],["$","a","2",{"href":"#s-2","children":"3. Стоимость и порядок оплаты"}],["$","a","3",{"href":"#s-3","children":"4. Возврат"}],["$","a","4",{"href":"#s-4","children":"5. Права и обязанности сторон"}],["$","a","5",{"href":"#s-5","children":"6. Заключительные положения"}]]]}],[["$","section","0",{"id":"s-0","className":"doc-section","children":[["$","h2",null,{"children":"1. Общие положения"}],[["$","p","0",{"children":"Настоящий документ является публичной офертой ИП Волков Д. А. (далее — «Исполнитель») и содержит все существенные условия договора оказания образовательных услуг."}],["$","p","1",{"children":"Акцептом оферты считается оплата любого тарифа либо регистрация аккаунта с проставленной отметкой о согласии с условиями. С момента акцепта договор считается заключённым."}],["$","p","2",{"children":"Услуги оказываются дистанционно через платформу vektor.school с использованием видеолекций, тренажёров и проверяемых домашних заданий."}]]]}],["$","section","1",{"id":"s-1","className":"doc-section","children":[["$","h2",null,{"children":"2. Предмет договора"}],[["$","p","0",{"children":"Исполнитель предоставляет Обучающемуся доступ к учебным материалам, тренажёрам и вебинарам по выбранным предметам в объёме оплаченного тарифа."}],["$","p","1",{"children":"Тарифы «С наставником» и «Профессия + стажировка» дополнительно включают проверку развёрнутых ответов и сопровождение куратора."}]]]}],["$","section","2",{"id":"s-2","className":"doc-section","children":[["$","h2",null,{"children":"3. Стоимость и порядок оплаты"}],["$L1a","$L1b","$L1c"]]}],"$L1d","$L1e","$L1f"],"$L20","$L21"]}],null,"$L22"]}],"p":"$@23","v":null,"s":"$c"}}]]
+16:[["children",{"s":{"n":"doc","t":"d","k":"offer","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@17","v":"$15","s":"$c"},"c":"$Q18"}]]
+13:[["children",{"s":"legal","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@14","v":"$15","s":"$c"},"c":"$Q16"}]]
+d:[["children",{"s":"(docs)","h":96,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/vector_test/_next/static/chunks/0cymye_dapnre.js","async":true}],["$","script","script-1",{"src":"/vector_test/_next/static/chunks/1qqbmsp66exn8.js","async":true}]],["$","$e",null,{"fallback":["$","div",null,{"className":"guard-screen","children":["$","div",null,{"className":"guard-card","style":{"maxWidth":380,"width":"100%"},"children":[["$","div",null,{"className":"skeleton-line","style":{"height":24,"width":"55%","margin":"0 auto 20px"}}],["$","div",null,{"className":"skeleton-line"}],["$","div",null,{"className":"skeleton-line","style":{"width":"85%"}}],["$","div",null,{"className":"skeleton-line","style":{"width":"40%"}}]]}]}],"children":["$","$L11",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[["$","$La",null,{}],[]]}]}]}]]}],"p":"$@12","v":null,"s":"$c"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vector_test/_next/static/chunks/0q1d28g-u_rb5.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/vector_test/_next/static/chunks/0zpchumeakp3s.css","precedence":"next"}],["$","script","script-0",{"src":"/vector_test/_next/static/chunks/1xj8f5-lk7pzh.js","async":true}],["$","script","script-1",{"src":"/vector_test/_next/static/chunks/1j_fhbqqzcm6x.js","async":true}]],["$","html",null,{"lang":"ru","className":"TGdcHW_variable oJ8KcG_variable","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/vector_test/_next/static/chunks/3p9ypxr7_-frn.js","async":true}]],"template":["$","$L8",null,{}],"notFound":[["$","$La",null,{}],[]]}]}]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L25",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L27",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Публичная оферта · Вектор"}],["$","meta","1",{"name":"description","content":"Договор возмездного оказания образовательных услуг между онлайн-школой «Вектор» и обучающимся (или его законным представителем)."}],["$","link","2",{"rel":"icon","href":"/vector_test/icon.svg?icon.24gpqax_sssw0.svg","sizes":"any","type":"image/svg+xml"}],["$","$L28","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@29","v":null,"s":"$c"}},"a":"$@2a","u":"$@2b","b":"sYJ9KLYFbmv302exHPieN"}
+2c:I[97367,["$2","$3"],"OutletBoundary"]
+1a:["$","p","0",{"children":"Стоимость услуг указана на странице тарифов и может меняться Исполнителем в одностороннем порядке без изменения уже оплаченного периода."}]
+1b:["$","p","1",{"children":"Оплата производится банковской картой или через СБП. Доступ открывается после подтверждения платежа платёжным провайдером."}]
+1c:["$","p","2",{"children":"Доступна рассрочка 0% на 12 месяцев без первого взноса через банк-партнёр."}]
+1d:["$","section","3",{"id":"s-3","className":"doc-section","children":[["$","h2",null,{"children":"4. Возврат"}],[["$","p","0",{"children":"Обучающийся вправе отказаться от услуг в течение 14 календарных дней с момента оплаты и получить полный возврат, если не приступил к обучению."}],["$","p","1",{"children":"После начала обучения возврат производится пропорционально неоказанному объёму услуг за вычетом фактически понесённых расходов."}]]]}]
+1e:["$","section","4",{"id":"s-4","className":"doc-section","children":[["$","h2",null,{"children":"5. Права и обязанности сторон"}],[["$","p","0",{"children":"Исполнитель обязуется обеспечить доступность платформы не менее 99% времени в месяц и поддержку куратора в рабочие часы."}],["$","p","1",{"children":"Обучающийся обязуется не передавать доступ третьим лицам и не распространять учебные материалы."}]]]}]
+1f:["$","section","5",{"id":"s-5","className":"doc-section","children":[["$","h2",null,{"children":"6. Заключительные положения"}],[["$","p","0",{"children":"Споры разрешаются путём переговоров, а при недостижении согласия — в суде по месту нахождения Исполнителя."}],["$","p","1",{"children":"Действующая редакция оферты всегда доступна по адресу /legal/offer."}]]]}]
+20:["$","div",null,{"className":"divider"}]
+21:["$","p",null,{"className":"muted","style":{"fontSize":13},"children":["Остались вопросы? Напишите на ",["$","a",null,{"className":"link-btn","href":"mailto:hello@vektor.school","children":"hello@vektor.school"}],". Остальные документы — в меню слева."]}]
+22:["$","$L2c",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
+c:300
+2d:null
+2b:true
+c:C
+2a:0
+17:"$undefined"
+14:"$undefined"
+12:"$undefined"
+b:"$undefined"
+29:"$undefined"
+23:"$undefined"

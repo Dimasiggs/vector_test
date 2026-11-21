@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:"/vector_test/_next/static/chunks/1xj8f5-lk7pzh.js"
+3:"/vector_test/_next/static/chunks/1j_fhbqqzcm6x.js"
+4:I[17356,["$2","$3"],"default"]
+5:I[39756,["$2","$3"],"default"]
+6:"/vector_test/_next/static/chunks/3p9ypxr7_-frn.js"
+7:I[36994,["$2","$3","$6"],"default"]
+8:I[37457,["$2","$3"],"default"]
+9:"/vector_test/_next/static/chunks/3l-y585g8xtkm.js"
+a:I[74164,["$2","$3","$9"],"default"]
+c:"/vector_test/_next/static/chunks/0rmhwjgfmwai9.js"
+d:"/vector_test/_next/static/chunks/2incei2o470tj.js"
+e:"/vector_test/_next/static/chunks/3rlimk216acw8.js"
+f:I[54401,["$2","$3","$c","$d","$e"],"default"]
+10:I[55135,["$2","$3","$c","$d","$e"],"default"]
+11:I[65524,["$2","$3","$c","$d","$e"],"default"]
+12:I[33610,["$2","$3","$c","$d","$e"],"default"]
+18:I[97367,["$2","$3"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:"ViewportBoundary"
+1c:I[97367,["$2","$3"],"$1b"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2","$3"],"$1e"]
+21:"/vector_test/_next/static/chunks/1--h3ilo-7bni.js"
+22:I[34045,["$2","$3","$21"],"default"]
+:HL["/vector_test/_next/static/chunks/0q1d28g-u_rb5.css","style"]
+:HL["/vector_test/_next/static/chunks/0zpchumeakp3s.css","style"]
+:HL["/vector_test/_next/static/media/1162af63fcaf8ea1-s.p.42z9vm7u0i9n-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/30eab6cd90b9f6c4-s.p.22z5avtxradui.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/3fa4db8b844e05e3-s.p.0g4pmka8j2u20.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/73c8302d2fdfe340-s.p.30xqm3yldpj47.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/77a3cbba9bdc124c-s.p.26axk51fv0nvx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/9f5be66613d9c872-s.p.27korwsf9c79u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/a036da9e181f7bda-s.p.17c61zbdzi3u-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vector_test/_next/static/media/e873d1be9bc8de24-s.p.06apcr9x5ml-j.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+14:X
+16:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L17",[["$","script","script-0",{"src":"/vector_test/_next/static/chunks/0a8r34qi51dym.js","async":true,"nonce":"$undefined"}]],["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}],"p":false,"v":null}}]]
+15:[["children",{"s":{"n":"subject","t":"d","k":"rus","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$14"},"c":"$Q16"}]]
+13:[["children",{"s":"courses","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$14"},"c":"$Q15"}]]
+b:[["children",{"s":"(marketing)","h":512,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/vector_test/_next/static/chunks/0rmhwjgfmwai9.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/vector_test/_next/static/chunks/2incei2o470tj.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/vector_test/_next/static/chunks/3rlimk216acw8.js","async":true,"nonce":"$undefined"}]],[["$","$Lf",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$La",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L10",null,{}],["$","$L11",null,{}],["$","$L12",null,{}]]]}],"p":false,"v":null},"c":"$Q13"}]]
+0:{"P":null,"c":["","courses","rus",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vector_test/_next/static/chunks/0q1d28g-u_rb5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/vector_test/_next/static/chunks/0zpchumeakp3s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/vector_test/_next/static/chunks/1xj8f5-lk7pzh.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/vector_test/_next/static/chunks/1j_fhbqqzcm6x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"TGdcHW_variable oJ8KcG_variable","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/vector_test/_next/static/chunks/3p9ypxr7_-frn.js","async":true,"nonce":"$undefined"}]],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$La",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":"$L20"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$22",[["$","link","0",{"rel":"stylesheet","href":"/vector_test/_next/static/chunks/0q1d28g-u_rb5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/vector_test/_next/static/chunks/0zpchumeakp3s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sYJ9KLYFbmv302exHPieN"}
+23:"/vector_test/_next/static/chunks/0a8r34qi51dym.js"
+24:I[37531,["$2","$3","$c","$d","$e","$23"],"default"]
+14:C
+17:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Course\",\"name\":\"Русский язык\",\"description\":\"Орфография, пунктуация и культура речи доведённые до автоматизма, плюс пошаговый конструктор сочинения ЕГЭ/ОГЭ с проверкой по критериям К1–К12.\",\"url\":\"https://vektor.school/courses/rus\",\"provider\":{\"@type\":\"EducationalOrganization\",\"name\":\"Вектор\",\"sameAs\":\"https://vektor.school\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.9\",\"reviewCount\":\"2870\"},\"offers\":{\"@type\":\"Offer\",\"category\":\"Paid\",\"priceCurrency\":\"RUB\",\"price\":\"3900\"},\"hasCourseInstance\":{\"@type\":\"CourseInstance\",\"courseMode\":\"online\",\"courseWorkload\":\"PT72H\"}}"}}],["$","$L24",null,{"subject":{"id":"rus","title":"Русский язык","icon":"book","color":"green","category":"humanities","exams":["ege","oge"],"level":"с нуля","duration":"6 мес","lessons":72,"tasks":900,"rating":4.9,"students":2870,"price":3900,"tagline":"Тестовая часть на автомате + сочинение на максимальный балл.","description":"Орфография, пунктуация и культура речи доведённые до автоматизма, плюс пошаговый конструктор сочинения ЕГЭ/ОГЭ с проверкой по критериям К1–К12.","outcomes":["Тестовая часть без ошибок","Сочинение: структура и аргументация","Все критерии К1–К12 разобраны","Банк аргументов и клише"],"teacher":{"name":"Мария Ким","role":"Эксперт ЕГЭ · 8 лет","exp":"проверяющий ФИПИ"},"modules":[{"title":"Орфография","lessons":[{"title":"Корни: чередование и проверяемые","dur":"16 мин","free":true},{"title":"Приставки и суффиксы","dur":"18 мин","free":false},{"title":"НЕ и НИ с разными частями речи","dur":"22 мин","free":false},{"title":"Н и НН","dur":"16 мин","free":false}]},{"title":"Пунктуация","lessons":[{"title":"Обособленные члены","dur":"20 мин","free":false},{"title":"Сложное предложение","dur":"24 мин","free":false},{"title":"Тире, двоеточие, запятая","dur":"22 мин","free":false}]},{"title":"Сочинение","lessons":[{"title":"Проблема и комментарий","dur":"20 мин","free":false},{"title":"Позиция автора и своя","dur":"18 мин","free":false},{"title":"Аргументация и композиция","dur":"22 мин","free":false},{"title":"Речевые нормы и клише","dur":"16 мин","free":false}]}],"demo":{"title":"Корни с чередованием","dur":"5:58","poster":"rus","notes":["-гар-/-гор-, -зар-/-зор-","Зависимость от ударения и суффикса -а-","Исключения и ловушки задания №9","Алгоритм за 20 секунд"]}}}]]
+1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+25:I[27201,["$2","$3"],"IconMark"]
+1a:null
+20:[["$","title","0",{"children":"Русский язык · подготовка к ЕГЭ и ОГЭ · Вектор"}],["$","meta","1",{"name":"description","content":"Орфография, пунктуация и культура речи доведённые до автоматизма, плюс пошаговый конструктор сочинения ЕГЭ/ОГЭ с проверкой по критериям К1–К12."}],["$","link","2",{"rel":"icon","href":"/vector_test/icon.svg?icon.24gpqax_sssw0.svg","sizes":"any","type":"image/svg+xml"}],["$","$L25","3",{}]]
